@@ -8,3 +8,5 @@ I followed [the design](https://cdn.statically.io/gh/TheOdinProject/curriculum/m
 ![landing-page](./img/landing-page.png "Landing Page's Image")
 
 Photos by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) from [unsplash](https://unsplash.com/)
+
+Live preview is [here](https://cansubaydar.github.io/landing-page/)
