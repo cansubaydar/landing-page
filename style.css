@@ -40,7 +40,7 @@ body {
     font-size: 18px;
 }
 
-@media all and (max-width: 768px) { 
+@media (max-width: 768px) { 
     .navbar {
         padding: 18px;
     }
@@ -70,7 +70,7 @@ body {
     gap: 52px;
 }
 
-@media all and (max-width: 992px) { 
+@media (max-width: 992px) { 
     .hero-container {
         flex-wrap: wrap-reverse;
     }
@@ -94,7 +94,7 @@ body {
     margin-bottom: 12px;
 }
 
-@media all and (max-width: 768px) {  
+@media (max-width: 768px) {  
     .hero-text {
         padding: 0;
     }
@@ -126,7 +126,7 @@ body {
     height: 237px;
 }
 
-@media all and (max-width: 768px) { 
+@media (max-width: 768px) { 
     .hero-image {
         padding: 0;
         max-width: 100%;
@@ -186,7 +186,7 @@ body {
     font-size: 18px;
 } 
 
-@media all and (max-width: 768px) { 
+@media (max-width: 768px) { 
     .info-title h2 {
         font-size: 32px;
     }
@@ -213,7 +213,7 @@ body {
     font-weight: 300;
 }
 
-@media all and (max-width: 768px) { 
+@media (max-width: 768px) { 
     .quote-container {
         padding: 0 5%;
     }
@@ -266,7 +266,7 @@ body {
     font-size: 18px;
 }
 
-@media all and (max-width: 768px) { 
+@media (max-width: 768px) { 
     .last-container {
         padding: 50px;
     }
